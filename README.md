@@ -1,1 +1,1 @@
-# Hypergraph-Cognitive-Networks
+# Hypergraph Cognitive Networks
