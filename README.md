@@ -7,7 +7,7 @@ Please, refer to the following work:
 
 ## Use
 
-This repository contains the preprocessing analysis of the data we used in the work cited above.
+This repository contains the basic analytical pipeline of the data we used in the work cited above.
 
 Data includes:
  - Features from the <a href=https://link.springer.com/article/10.3758/s13428-018-1099-3>Glasgow Norms</a>;
